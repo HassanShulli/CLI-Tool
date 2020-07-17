@@ -1,5 +1,5 @@
 
-# Node.js CLI tool project
+# Node.js CLI tool project (make sure you have node.js installed)
 
 This project is a cli tool generated node.js and express.js.
 
